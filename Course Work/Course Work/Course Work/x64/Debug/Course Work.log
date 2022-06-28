@@ -1,0 +1,13 @@
+﻿  ElectricityMeter.cpp
+C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\Course Work\ElectricityMeter.cpp(10,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\Course Work\ElectricityMeter.cpp(28,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Exception.cpp
+  Meter.cpp
+  PaymentBook.cpp
+  Printer.cpp
+C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\Course Work\Printer.cpp(59,72): warning C4838: Преобразование из "unsigned __int64" в "SHORT" требует сужающего преобразования.
+C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\Course Work\Printer.cpp(59,126): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+  main.cpp
+  Создание кода...
+C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\Course Work\main.cpp(353): warning C4715: writeFile: значение возвращается не при всех путях выполнения
+  Course Work.vcxproj -> C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\x64\Debug\Course Work.exe
