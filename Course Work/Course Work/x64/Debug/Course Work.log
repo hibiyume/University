@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\Course Work\main.cpp(355): warning C4715: writeFile: значение возвращается не при всех путях выполнения
+  Course Work.vcxproj -> C:\Users\user\Desktop\Универ\ООП\Course Work\Course Work\x64\Debug\Course Work.exe
