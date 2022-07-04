@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\user\Desktop\Универ\ООП\Workshop 4\Workshop 4\Workshop 4\main.cpp(12,53): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Универ\ООП\Workshop 4\Workshop 4\Workshop 4\main.cpp(13,65): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Универ\ООП\Workshop 4\Workshop 4\Workshop 4\main.cpp(14,44): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Универ\ООП\Workshop 4\Workshop 4\Workshop 4\main.cpp(15,50): warning C4305: аргумент: усечение из "double" в "float"
+  Workshop 4.vcxproj -> C:\Users\user\Desktop\Универ\ООП\Workshop 4\Workshop 4\x64\Debug\Workshop 4.exe
